@@ -3,4 +3,4 @@ Scripts for book chapter "Analyzing metabolomic pathways in microbiomes" in Meth
 
 The folder 'Statistics analysis' contains scripts (in R) used in subsection 3, and sample data.
 
-The folder 'EC annotation' contains scripts (in Python) used in subsection 1.
+The folder 'EC annotation' contains scripts (in Python) used in subsection 2.
