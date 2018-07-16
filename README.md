@@ -1,3 +1,6 @@
-Book chapter "Analyzing metabolomic pathways in microbiomes" in Methods Molecular Biology, Vol. 1849, Robert Beiko et al. (Eds)
+# Metabolomic-pathways-in-microbiomes
+Scripts for book chapter "Analyzing metabolomic pathways in microbiomes" in Methods Molecular Biology, Vol. 1849, Robert Beiko et al. (Eds)
 
-Understanding the metabolic activity of a microbial community, at both the level of the individual microbe and the whole microbiome, provides fundamental biological, biochemical, and clinical insights into the nature of the microbial community and interactions with their hosts in health and disease. Here, we discuss a method to examine the expression of metabolic pathways in microbial communities using data from metatranscriptomic next-generation sequencing data. The methodology described here encompasses enzyme function annotation, differential enzyme expression and pathway enrichment analyses, and visualization of metabolic networks with differential enzyme expression levels.
+The folder 'Statistics analysis' contains scripts (in R) used in subsection 3, and sample data.
+
+The folder 'EC annotation' contains scripts (in Python) used in subsection 2.
